@@ -1,0 +1,9 @@
+C:\Document\Cours\Prog C#\JeuPFC\JeuPFC\bin\Debug\JeuPFC.exe.config
+C:\Document\Cours\Prog C#\JeuPFC\JeuPFC\bin\Debug\JeuPFC.exe
+C:\Document\Cours\Prog C#\JeuPFC\JeuPFC\bin\Debug\JeuPFC.pdb
+C:\Document\Cours\Prog C#\JeuPFC\JeuPFC\obj\Debug\JeuPFC.csprojAssemblyReference.cache
+C:\Document\Cours\Prog C#\JeuPFC\JeuPFC\obj\Debug\JeuPFC.Form1.resources
+C:\Document\Cours\Prog C#\JeuPFC\JeuPFC\obj\Debug\JeuPFC.Properties.Resources.resources
+C:\Document\Cours\Prog C#\JeuPFC\JeuPFC\obj\Debug\JeuPFC.csproj.GenerateResource.cache
+C:\Document\Cours\Prog C#\JeuPFC\JeuPFC\obj\Debug\JeuPFC.exe
+C:\Document\Cours\Prog C#\JeuPFC\JeuPFC\obj\Debug\JeuPFC.pdb
