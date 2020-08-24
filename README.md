@@ -1,5 +1,6 @@
-# Projet N°1 Caf'Art
+# Projet N°1 -> 5 1er Année BTS SIO
 
 BTS SIO 1er
 
-Fiche developpeur débutant ainsi que les fiches du projets
+Dossier des projets ainsi que les fiches developpement et fiches dev débutant.
+
