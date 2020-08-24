@@ -1,0 +1,9 @@
+C:\Users\CSylvain\Documents\Prog C#\Jeu Mystère\Jeu Mystère\obj\Debug\Jeu Mystère.csprojAssemblyReference.cache
+C:\Users\CSylvain\Documents\Prog C#\Jeu Mystère\Jeu Mystère\obj\Debug\Jeu_Mystère.Form1.resources
+C:\Users\CSylvain\Documents\Prog C#\Jeu Mystère\Jeu Mystère\obj\Debug\Jeu_Mystère.Properties.Resources.resources
+C:\Users\CSylvain\Documents\Prog C#\Jeu Mystère\Jeu Mystère\obj\Debug\Jeu Mystère.csproj.GenerateResource.cache
+C:\Users\CSylvain\Documents\Prog C#\Jeu Mystère\Jeu Mystère\bin\Debug\Jeu Mystère.exe.config
+C:\Users\CSylvain\Documents\Prog C#\Jeu Mystère\Jeu Mystère\bin\Debug\Jeu Mystère.exe
+C:\Users\CSylvain\Documents\Prog C#\Jeu Mystère\Jeu Mystère\bin\Debug\Jeu Mystère.pdb
+C:\Users\CSylvain\Documents\Prog C#\Jeu Mystère\Jeu Mystère\obj\Debug\Jeu Mystère.exe
+C:\Users\CSylvain\Documents\Prog C#\Jeu Mystère\Jeu Mystère\obj\Debug\Jeu Mystère.pdb
