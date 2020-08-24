@@ -1,0 +1,9 @@
+C:\Document\Cours\Prog C#\Appli XML Partiel SI6\Appli XML Partiel SI6\bin\Debug\Appli XML Partiel SI6.exe.config
+C:\Document\Cours\Prog C#\Appli XML Partiel SI6\Appli XML Partiel SI6\bin\Debug\Appli XML Partiel SI6.exe
+C:\Document\Cours\Prog C#\Appli XML Partiel SI6\Appli XML Partiel SI6\bin\Debug\Appli XML Partiel SI6.pdb
+C:\Document\Cours\Prog C#\Appli XML Partiel SI6\Appli XML Partiel SI6\obj\Debug\Appli XML Partiel SI6.csprojAssemblyReference.cache
+C:\Document\Cours\Prog C#\Appli XML Partiel SI6\Appli XML Partiel SI6\obj\Debug\Appli_XML_Partiel_SI6.Form1.resources
+C:\Document\Cours\Prog C#\Appli XML Partiel SI6\Appli XML Partiel SI6\obj\Debug\Appli_XML_Partiel_SI6.Properties.Resources.resources
+C:\Document\Cours\Prog C#\Appli XML Partiel SI6\Appli XML Partiel SI6\obj\Debug\Appli XML Partiel SI6.csproj.GenerateResource.cache
+C:\Document\Cours\Prog C#\Appli XML Partiel SI6\Appli XML Partiel SI6\obj\Debug\Appli XML Partiel SI6.exe
+C:\Document\Cours\Prog C#\Appli XML Partiel SI6\Appli XML Partiel SI6\obj\Debug\Appli XML Partiel SI6.pdb

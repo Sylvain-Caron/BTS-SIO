@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appli XML Partiel SI6", "Appli XML Partiel SI6\Appli XML Partiel SI6.csproj", "{30491A81-02B2-4103-B931-EE17B18C92CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30491A81-02B2-4103-B931-EE17B18C92CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30491A81-02B2-4103-B931-EE17B18C92CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30491A81-02B2-4103-B931-EE17B18C92CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30491A81-02B2-4103-B931-EE17B18C92CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5985EE3-D751-4A37-B3EA-870C67CAE556}
+	EndGlobalSection
+EndGlobal
