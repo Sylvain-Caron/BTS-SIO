@@ -1,0 +1,8 @@
+textarea[name=commentaire]
+{
+ resize : none;
+}
+h6{
+  text-decoration-color: brown;
+  text-decoration: underline;
+}

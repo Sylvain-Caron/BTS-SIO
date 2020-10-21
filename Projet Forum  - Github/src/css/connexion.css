@@ -1,0 +1,22 @@
+body
+{
+    margin:0;
+    padding:0;
+    background: url(https://c.wallhere.com/photos/77/27/triangle_geometric_multicolored-1213190.jpg!d) no-repeat center fixed;
+    background-size: cover; /* version standardisée */
+    -o-background-size: cover; /* version précédente */
+    background-color: black;
+    
+}
+h1{
+ font-size: 240%; 
+ color: snow; 
+ text-align: center;
+ font: bold 1.5em "Fira Sans", calibri;
+ text-decoration: underline;   
+}
+
+label
+{
+   color: snow;  
+}
